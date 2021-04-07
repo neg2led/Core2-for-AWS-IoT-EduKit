@@ -11,3 +11,17 @@
 
 /components/esp-cryptoauthlib/esp_cryptoauth_utility/output_files/*
 /utilities/device_registration_helper/output_files/*
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+*.code-workspace
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
+# putting stuff i'm using as references and notes etc in here
+misc/
